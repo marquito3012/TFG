@@ -11,4 +11,4 @@ Training data for action classification
 | Train Loss | 0.0251% | | | |
 | Test Accuracy | 94.25% | | | |
 | Inference Time | 0.01 | | | |
-| Parameters | 25557032 | | | |
+| Parameters | 25557032 | 11689512 | 54139356 | 1,533,666 |
