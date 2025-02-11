@@ -11,4 +11,4 @@ Training data for action classification
 | Train Loss | | | | |
 | Test Accuracy | | | | |
 | Inference Time | | | | |
-| Parameters | | | | |
+| Parameters | 25557032 | | | |
