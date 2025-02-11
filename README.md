@@ -7,8 +7,8 @@ Training data for action classification
 
 | Characteristics | ResNet50 | ResNet18 | EfficientNet | Yolo |
 |   :---:   |   :---:   |   :---:   |  :---:  |  :---:  |
-| Train Accuracy | 98.97% | | | |
-| Train Loss | 0.0251% | | | |
-| Test Accuracy | 94.25% | | | |
-| Inference Time | 0.01 | | | |
+| Train Accuracy | 98.97% | 96.98% | | |
+| Train Loss | 0.0251 | 0.0738 | | |
+| Test Accuracy | 94.25% | 92.02% | | |
+| Inference Time | 0.01 | 0.005 | | |
 | Parameters | 25557032 | 11689512 | 54139356 | 1,533,666 |
