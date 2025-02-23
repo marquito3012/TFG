@@ -12,3 +12,8 @@ Training data for action classification
 | Test Accuracy | 94.25% | 92.02% | 94.06% | |
 | Inference Time | 0.01s | 0.005s | 0.04s | 0.055 |
 | Parameters | 25,557,032 | 11,689,512 | 54,139,356 | 1,533,666 |
+
+
+Ideas for the fundational models:
+
+* Veo 2
